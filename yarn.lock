@@ -3819,9 +3819,9 @@ metro-babel7-plugin-react-transform@0.48.1:
   dependencies:
     "@babel/helper-module-imports" "^7.0.0"
 
-metro-babel7-plugin-react-transform@0.49.0:
-  version "0.49.0"
-  resolved "https://registry.yarnpkg.com/metro-babel7-plugin-react-transform/-/metro-babel7-plugin-react-transform-0.49.0.tgz#1df801a17215c8271e89bb55c15e7305592c33bf"
+metro-babel7-plugin-react-transform@0.49.2:
+  version "0.49.2"
+  resolved "https://registry.yarnpkg.com/metro-babel7-plugin-react-transform/-/metro-babel7-plugin-react-transform-0.49.2.tgz#d4c43faa6f2b91cc1b244a36a5d708ae8d39dbb2"
   dependencies:
     "@babel/helper-module-imports" "^7.0.0"
 
@@ -3903,9 +3903,9 @@ metro-react-native-babel-preset@0.48.1:
     metro-babel7-plugin-react-transform "0.48.1"
     react-transform-hmr "^1.0.4"
 
-metro-react-native-babel-preset@^0.49.0:
-  version "0.49.0"
-  resolved "https://registry.yarnpkg.com/metro-react-native-babel-preset/-/metro-react-native-babel-preset-0.49.0.tgz#c74480d88817f32aec7474e45e7eda1716112ecf"
+metro-react-native-babel-preset@^0.49.2:
+  version "0.49.2"
+  resolved "https://registry.yarnpkg.com/metro-react-native-babel-preset/-/metro-react-native-babel-preset-0.49.2.tgz#8d53610e044e0c9a53a03d307e1c51f9e8577abc"
   dependencies:
     "@babel/plugin-proposal-class-properties" "^7.0.0"
     "@babel/plugin-proposal-export-default-from" "^7.0.0"
@@ -3940,7 +3940,7 @@ metro-react-native-babel-preset@^0.49.0:
     "@babel/plugin-transform-typescript" "^7.0.0"
     "@babel/plugin-transform-unicode-regex" "^7.0.0"
     "@babel/template" "^7.0.0"
-    metro-babel7-plugin-react-transform "0.49.0"
+    metro-babel7-plugin-react-transform "0.49.2"
     react-transform-hmr "^1.0.4"
 
 metro-resolver@0.48.1:
